@@ -1,0 +1,1505 @@
+#Jan 4, 2018
+#Lenovo ThinkPad T460, 4 CPUs, 16GB RAM
+
+Map Size: 10000
+Times to get from map: 10000000
+Cycle #1
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 2,141,235,986
+Get By put and get took ns: 942,158,817
+HashTable
+Get By compute if absent took ns: 1,153,111,669
+Get By put and get took ns: 977,654,993
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 9,412,095
+Get By put and get took ns: 448,410
+HashTable
+Get By compute if absent took ns: 450,461
+Get By put and get took ns: 594,871
+Cycle #2
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,133,781,634
+Get By put and get took ns: 943,383,841
+HashTable
+Get By compute if absent took ns: 884,187,172
+Get By put and get took ns: 891,191,474
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 70,974
+Get By put and get took ns: 73,846
+HashTable
+Get By compute if absent took ns: 48,821
+Get By put and get took ns: 41,436
+Cycle #3
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 801,941,496
+Get By put and get took ns: 784,837,510
+HashTable
+Get By compute if absent took ns: 840,631,925
+Get By put and get took ns: 960,438,596
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 34,462
+Get By put and get took ns: 17,230
+HashTable
+Get By compute if absent took ns: 12,717
+Get By put and get took ns: 13,539
+Cycle #4
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 824,416,144
+Get By put and get took ns: 867,614,057
+HashTable
+Get By compute if absent took ns: 923,488,473
+Get By put and get took ns: 773,040,186
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 30,770
+Get By put and get took ns: 31,590
+HashTable
+Get By compute if absent took ns: 13,949
+Get By put and get took ns: 14,358
+Cycle #5
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 825,811,015
+Get By put and get took ns: 899,648,492
+HashTable
+Get By compute if absent took ns: 883,840,095
+Get By put and get took ns: 1,497,347,695
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 88,616
+Get By put and get took ns: 59,077
+HashTable
+Get By compute if absent took ns: 82,052
+Get By put and get took ns: 68,103
+Cycle #6
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 939,860,562
+Get By put and get took ns: 1,392,097,320
+HashTable
+Get By compute if absent took ns: 1,604,173,043
+Get By put and get took ns: 907,312,076
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,898
+Get By put and get took ns: 24,205
+HashTable
+Get By compute if absent took ns: 14,769
+Get By put and get took ns: 22,154
+Cycle #7
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 923,705,088
+Get By put and get took ns: 800,610,625
+HashTable
+Get By compute if absent took ns: 750,141,333
+Get By put and get took ns: 755,733,124
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,487
+Get By put and get took ns: 22,564
+HashTable
+Get By compute if absent took ns: 17,230
+Get By put and get took ns: 27,897
+Cycle #8
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 745,606,362
+Get By put and get took ns: 818,800,970
+HashTable
+Get By compute if absent took ns: 834,894,494
+Get By put and get took ns: 769,267,472
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 85,334
+Get By put and get took ns: 41,847
+HashTable
+Get By compute if absent took ns: 35,282
+Get By put and get took ns: 38,974
+Cycle #9
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 761,219,888
+Get By put and get took ns: 735,924,320
+HashTable
+Get By compute if absent took ns: 778,535,566
+Get By put and get took ns: 763,633,425
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 33,231
+Get By put and get took ns: 24,615
+HashTable
+Get By compute if absent took ns: 29,948
+Get By put and get took ns: 25,846
+Cycle #10
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 735,408,217
+Get By put and get took ns: 753,219,895
+HashTable
+Get By compute if absent took ns: 760,028,915
+Get By put and get took ns: 823,486,914
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 28,307
+Get By put and get took ns: 17,231
+HashTable
+Get By compute if absent took ns: 13,128
+Get By put and get took ns: 14,769
+Cycle #11
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 908,932,587
+Get By put and get took ns: 724,553,661
+HashTable
+Get By compute if absent took ns: 787,800,379
+Get By put and get took ns: 867,277,237
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 54,975
+Get By put and get took ns: 41,846
+HashTable
+Get By compute if absent took ns: 36,102
+Get By put and get took ns: 45,539
+Cycle #12
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 759,375,787
+Get By put and get took ns: 721,742,588
+HashTable
+Get By compute if absent took ns: 828,199,526
+Get By put and get took ns: 916,877,607
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 34,462
+Get By put and get took ns: 22,154
+HashTable
+Get By compute if absent took ns: 18,462
+Get By put and get took ns: 19,282
+Cycle #13
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 850,300,841
+Get By put and get took ns: 888,846,860
+HashTable
+Get By compute if absent took ns: 783,559,152
+Get By put and get took ns: 768,415,779
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 25,846
+Get By put and get took ns: 16,410
+HashTable
+Get By compute if absent took ns: 11,488
+Get By put and get took ns: 19,692
+Cycle #14
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 744,062,159
+Get By put and get took ns: 768,356,703
+HashTable
+Get By compute if absent took ns: 826,299,219
+Get By put and get took ns: 817,999,739
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 41,436
+Get By put and get took ns: 22,974
+HashTable
+Get By compute if absent took ns: 15,180
+Get By put and get took ns: 20,103
+Cycle #15
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 829,881,575
+Get By put and get took ns: 835,413,879
+HashTable
+Get By compute if absent took ns: 1,002,050,050
+Get By put and get took ns: 789,703,147
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 38,153
+Get By put and get took ns: 34,461
+HashTable
+Get By compute if absent took ns: 15,180
+Get By put and get took ns: 16,820
+Cycle #16
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 803,072,162
+Get By put and get took ns: 853,024,942
+HashTable
+Get By compute if absent took ns: 1,037,673,405
+Get By put and get took ns: 1,154,467,155
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 32,000
+Get By put and get took ns: 21,333
+HashTable
+Get By compute if absent took ns: 68,103
+Get By put and get took ns: 124,718
+Cycle #17
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 893,085,626
+Get By put and get took ns: 801,667,855
+HashTable
+Get By compute if absent took ns: 886,158,453
+Get By put and get took ns: 838,267,619
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 61,539
+Get By put and get took ns: 39,385
+HashTable
+Get By compute if absent took ns: 34,051
+Get By put and get took ns: 13,538
+Cycle #18
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 874,696,308
+Get By put and get took ns: 840,913,361
+HashTable
+Get By compute if absent took ns: 774,007,980
+Get By put and get took ns: 830,103,524
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 66,461
+Get By put and get took ns: 20,513
+HashTable
+Get By compute if absent took ns: 12,718
+Get By put and get took ns: 21,334
+Cycle #19
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 806,710,312
+Get By put and get took ns: 760,470,350
+HashTable
+Get By compute if absent took ns: 813,045,487
+Get By put and get took ns: 772,705,827
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 25,846
+Get By put and get took ns: 15,590
+HashTable
+Get By compute if absent took ns: 11,488
+Get By put and get took ns: 12,308
+Cycle #20
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 832,851,009
+Get By put and get took ns: 917,720,272
+HashTable
+Get By compute if absent took ns: 871,204,208
+Get By put and get took ns: 793,123,042
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 40,616
+Get By put and get took ns: 35,693
+HashTable
+Get By compute if absent took ns: 21,743
+Get By put and get took ns: 17,641
+Cycle #21
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 855,512,324
+Get By put and get took ns: 745,151,388
+HashTable
+Get By compute if absent took ns: 779,686,744
+Get By put and get took ns: 845,226,794
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 33,641
+Get By put and get took ns: 25,026
+HashTable
+Get By compute if absent took ns: 66,462
+Get By put and get took ns: 39,795
+Cycle #22
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 783,993,613
+Get By put and get took ns: 812,608,154
+HashTable
+Get By compute if absent took ns: 826,470,296
+Get By put and get took ns: 849,783,508
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 26,256
+Get By put and get took ns: 15,590
+HashTable
+Get By compute if absent took ns: 11,487
+Get By put and get took ns: 70,153
+Cycle #23
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 795,653,911
+Get By put and get took ns: 834,627,828
+HashTable
+Get By compute if absent took ns: 863,847,907
+Get By put and get took ns: 807,021,697
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 29,538
+Get By put and get took ns: 31,179
+HashTable
+Get By compute if absent took ns: 14,359
+Get By put and get took ns: 16,821
+Cycle #24
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 736,328,011
+Get By put and get took ns: 823,391,324
+HashTable
+Get By compute if absent took ns: 800,071,139
+Get By put and get took ns: 883,891,377
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 47,590
+Get By put and get took ns: 18,872
+HashTable
+Get By compute if absent took ns: 16,820
+Get By put and get took ns: 18,871
+Cycle #25
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 891,386,345
+Get By put and get took ns: 836,473,570
+HashTable
+Get By compute if absent took ns: 865,918,879
+Get By put and get took ns: 840,509,670
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,487
+Get By put and get took ns: 16,000
+HashTable
+Get By compute if absent took ns: 11,487
+Get By put and get took ns: 12,307
+Cycle #26
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 805,080,775
+Get By put and get took ns: 801,418,420
+HashTable
+Get By compute if absent took ns: 921,654,628
+Get By put and get took ns: 900,366,440
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 29,538
+Get By put and get took ns: 16,000
+HashTable
+Get By compute if absent took ns: 12,308
+Get By put and get took ns: 13,129
+Cycle #27
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 928,135,854
+Get By put and get took ns: 865,160,316
+HashTable
+Get By compute if absent took ns: 890,821,012
+Get By put and get took ns: 839,546,388
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 38,564
+Get By put and get took ns: 26,256
+HashTable
+Get By compute if absent took ns: 63,589
+Get By put and get took ns: 50,051
+Cycle #28
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 821,591,531
+Get By put and get took ns: 798,204,063
+HashTable
+Get By compute if absent took ns: 839,409,362
+Get By put and get took ns: 783,125,101
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 87,384
+Get By put and get took ns: 55,385
+HashTable
+Get By compute if absent took ns: 16,820
+Get By put and get took ns: 16,410
+Cycle #29
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 802,284,880
+Get By put and get took ns: 743,189,544
+HashTable
+Get By compute if absent took ns: 1,028,051,259
+Get By put and get took ns: 1,400,206,441
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 34,462
+Get By put and get took ns: 20,102
+HashTable
+Get By compute if absent took ns: 12,308
+Get By put and get took ns: 12,718
+Cycle #30
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 910,141,202
+Get By put and get took ns: 800,254,113
+HashTable
+Get By compute if absent took ns: 835,088,956
+Get By put and get took ns: 852,889,967
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 32,821
+Get By put and get took ns: 37,333
+HashTable
+Get By compute if absent took ns: 15,179
+Get By put and get took ns: 16,821
+Cycle #31
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 738,571,291
+Get By put and get took ns: 991,805,546
+HashTable
+Get By compute if absent took ns: 880,245,431
+Get By put and get took ns: 825,018,810
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 31,179
+Get By put and get took ns: 18,872
+HashTable
+Get By compute if absent took ns: 14,769
+Get By put and get took ns: 15,590
+Cycle #32
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 873,809,744
+Get By put and get took ns: 1,430,361,903
+HashTable
+Get By compute if absent took ns: 770,768,189
+Get By put and get took ns: 840,899,413
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 32,000
+Get By put and get took ns: 19,282
+HashTable
+Get By compute if absent took ns: 35,693
+Get By put and get took ns: 65,231
+Cycle #33
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 872,416,104
+Get By put and get took ns: 805,203,852
+HashTable
+Get By compute if absent took ns: 1,457,881,060
+Get By put and get took ns: 769,768,394
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 31,590
+Get By put and get took ns: 19,692
+HashTable
+Get By compute if absent took ns: 13,539
+Get By put and get took ns: 29,949
+Cycle #34
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 917,481,094
+Get By put and get took ns: 936,759,436
+HashTable
+Get By compute if absent took ns: 942,014,817
+Get By put and get took ns: 880,826,354
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,897
+Get By put and get took ns: 16,410
+HashTable
+Get By compute if absent took ns: 11,487
+Get By put and get took ns: 11,898
+Cycle #35
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 895,883,983
+Get By put and get took ns: 942,746,303
+HashTable
+Get By compute if absent took ns: 957,751,829
+Get By put and get took ns: 1,606,036,836
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 33,641
+Get By put and get took ns: 19,282
+HashTable
+Get By compute if absent took ns: 16,000
+Get By put and get took ns: 16,410
+Cycle #36
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,034,726,945
+Get By put and get took ns: 778,743,156
+HashTable
+Get By compute if absent took ns: 877,234,152
+Get By put and get took ns: 1,007,845,737
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 29,129
+Get By put and get took ns: 16,821
+HashTable
+Get By compute if absent took ns: 11,077
+Get By put and get took ns: 12,308
+Cycle #37
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 860,361,961
+Get By put and get took ns: 890,552,706
+HashTable
+Get By compute if absent took ns: 855,429,452
+Get By put and get took ns: 952,298,706
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,487
+Get By put and get took ns: 15,590
+HashTable
+Get By compute if absent took ns: 14,359
+Get By put and get took ns: 78,769
+Cycle #38
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 848,792,329
+Get By put and get took ns: 887,493,836
+HashTable
+Get By compute if absent took ns: 834,333,264
+Get By put and get took ns: 768,876,908
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 36,513
+Get By put and get took ns: 23,795
+HashTable
+Get By compute if absent took ns: 16,000
+Get By put and get took ns: 17,231
+Cycle #39
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 878,878,459
+Get By put and get took ns: 1,241,028,315
+HashTable
+Get By compute if absent took ns: 810,389,079
+Get By put and get took ns: 781,819,256
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,898
+Get By put and get took ns: 16,000
+HashTable
+Get By compute if absent took ns: 10,667
+Get By put and get took ns: 11,897
+Cycle #40
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 793,715,451
+Get By put and get took ns: 843,039,308
+HashTable
+Get By compute if absent took ns: 950,202,707
+Get By put and get took ns: 803,760,161
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 74,667
+Get By put and get took ns: 90,667
+HashTable
+Get By compute if absent took ns: 60,718
+Get By put and get took ns: 54,974
+Cycle #41
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 853,196,838
+Get By put and get took ns: 778,243,875
+HashTable
+Get By compute if absent took ns: 857,361,758
+Get By put and get took ns: 899,706,339
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 29,538
+Get By put and get took ns: 33,231
+HashTable
+Get By compute if absent took ns: 11,487
+Get By put and get took ns: 11,898
+Cycle #42
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 944,781,994
+Get By put and get took ns: 875,208,718
+HashTable
+Get By compute if absent took ns: 872,764,002
+Get By put and get took ns: 732,041,656
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 32,000
+Get By put and get took ns: 23,385
+HashTable
+Get By compute if absent took ns: 41,436
+Get By put and get took ns: 29,949
+Cycle #43
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 810,101,900
+Get By put and get took ns: 941,700,561
+HashTable
+Get By compute if absent took ns: 824,491,631
+Get By put and get took ns: 789,508,686
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 56,616
+Get By put and get took ns: 23,384
+HashTable
+Get By compute if absent took ns: 16,000
+Get By put and get took ns: 16,821
+Cycle #44
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 831,355,215
+Get By put and get took ns: 803,782,725
+HashTable
+Get By compute if absent took ns: 805,607,544
+Get By put and get took ns: 890,481,731
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 28,308
+Get By put and get took ns: 15,590
+HashTable
+Get By compute if absent took ns: 10,666
+Get By put and get took ns: 11,077
+Cycle #45
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 784,654,946
+Get By put and get took ns: 798,711,549
+HashTable
+Get By compute if absent took ns: 877,685,844
+Get By put and get took ns: 1,159,660,997
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 35,692
+Get By put and get took ns: 20,102
+HashTable
+Get By compute if absent took ns: 14,359
+Get By put and get took ns: 14,769
+Cycle #46
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 835,688,750
+Get By put and get took ns: 1,125,238,051
+HashTable
+Get By compute if absent took ns: 1,078,024,962
+Get By put and get took ns: 923,295,242
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 28,307
+Get By put and get took ns: 14,359
+HashTable
+Get By compute if absent took ns: 11,488
+Get By put and get took ns: 11,077
+Cycle #47
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 874,146,154
+Get By put and get took ns: 905,846,641
+HashTable
+Get By compute if absent took ns: 978,974,786
+Get By put and get took ns: 841,194,797
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 42,667
+Get By put and get took ns: 20,923
+HashTable
+Get By compute if absent took ns: 15,180
+Get By put and get took ns: 16,411
+Cycle #48
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 844,940,025
+Get By put and get took ns: 920,061,604
+HashTable
+Get By compute if absent took ns: 778,444,079
+Get By put and get took ns: 776,156,081
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 30,770
+Get By put and get took ns: 18,462
+HashTable
+Get By compute if absent took ns: 12,718
+Get By put and get took ns: 29,128
+Cycle #49
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 872,074,772
+Get By put and get took ns: 840,803,002
+HashTable
+Get By compute if absent took ns: 792,986,836
+Get By put and get took ns: 876,637,640
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 52,923
+Get By put and get took ns: 20,102
+HashTable
+Get By compute if absent took ns: 16,821
+Get By put and get took ns: 18,051
+Cycle #50
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 768,772,292
+Get By put and get took ns: 793,155,042
+HashTable
+Get By compute if absent took ns: 921,467,142
+Get By put and get took ns: 821,197,275
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 46,359
+Get By put and get took ns: 18,462
+HashTable
+Get By compute if absent took ns: 13,128
+Get By put and get took ns: 13,949
+Cycle #51
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,062,434,411
+Get By put and get took ns: 922,354,115
+HashTable
+Get By compute if absent took ns: 1,253,449,228
+Get By put and get took ns: 1,161,496,893
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 37,334
+Get By put and get took ns: 41,436
+HashTable
+Get By compute if absent took ns: 21,743
+Get By put and get took ns: 20,103
+Cycle #52
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,626,676,819
+Get By put and get took ns: 1,474,776,636
+HashTable
+Get By compute if absent took ns: 2,070,593,173
+Get By put and get took ns: 1,985,085,141
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 39,385
+Get By put and get took ns: 18,871
+HashTable
+Get By compute if absent took ns: 16,821
+Get By put and get took ns: 18,052
+Cycle #53
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,620,706,362
+Get By put and get took ns: 1,308,070,721
+HashTable
+Get By compute if absent took ns: 1,423,184,473
+Get By put and get took ns: 1,163,618,738
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 42,667
+Get By put and get took ns: 26,256
+HashTable
+Get By compute if absent took ns: 13,128
+Get By put and get took ns: 13,538
+Cycle #54
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,049,582,318
+Get By put and get took ns: 897,351,879
+HashTable
+Get By compute if absent took ns: 875,355,590
+Get By put and get took ns: 812,562,615
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 36,103
+Get By put and get took ns: 12,718
+HashTable
+Get By compute if absent took ns: 10,666
+Get By put and get took ns: 10,256
+Cycle #55
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 874,554,360
+Get By put and get took ns: 879,225,125
+HashTable
+Get By compute if absent took ns: 859,575,089
+Get By put and get took ns: 1,063,676,255
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 34,461
+Get By put and get took ns: 20,102
+HashTable
+Get By compute if absent took ns: 13,128
+Get By put and get took ns: 12,718
+Cycle #56
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 905,714,539
+Get By put and get took ns: 841,603,412
+HashTable
+Get By compute if absent took ns: 846,605,254
+Get By put and get took ns: 762,921,630
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 32,410
+Get By put and get took ns: 16,411
+HashTable
+Get By compute if absent took ns: 13,949
+Get By put and get took ns: 13,539
+Cycle #57
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,522,061,110
+Get By put and get took ns: 1,497,544,207
+HashTable
+Get By compute if absent took ns: 944,932,148
+Get By put and get took ns: 997,270,976
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 42,666
+Get By put and get took ns: 22,975
+HashTable
+Get By compute if absent took ns: 15,589
+Get By put and get took ns: 13,949
+Cycle #58
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 956,565,779
+Get By put and get took ns: 804,715,237
+HashTable
+Get By compute if absent took ns: 1,559,647,541
+Get By put and get took ns: 1,637,560,913
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 41,846
+Get By put and get took ns: 18,461
+HashTable
+Get By compute if absent took ns: 69,333
+Get By put and get took ns: 16,410
+Cycle #59
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,455,288,241
+Get By put and get took ns: 1,202,009,270
+HashTable
+Get By compute if absent took ns: 1,001,388,306
+Get By put and get took ns: 885,104,505
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 31,589
+Get By put and get took ns: 15,590
+HashTable
+Get By compute if absent took ns: 12,308
+Get By put and get took ns: 14,769
+Cycle #60
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 847,452,843
+Get By put and get took ns: 842,206,078
+HashTable
+Get By compute if absent took ns: 930,329,083
+Get By put and get took ns: 1,004,716,304
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 32,821
+Get By put and get took ns: 14,770
+HashTable
+Get By compute if absent took ns: 11,898
+Get By put and get took ns: 13,538
+Cycle #61
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,118,603,390
+Get By put and get took ns: 1,080,561,575
+HashTable
+Get By compute if absent took ns: 995,172,927
+Get By put and get took ns: 958,762,291
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 28,718
+Get By put and get took ns: 13,128
+HashTable
+Get By compute if absent took ns: 10,666
+Get By put and get took ns: 9,436
+Cycle #62
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 890,335,269
+Get By put and get took ns: 888,558,450
+HashTable
+Get By compute if absent took ns: 966,329,463
+Get By put and get took ns: 1,009,484,710
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 38,154
+Get By put and get took ns: 18,052
+HashTable
+Get By compute if absent took ns: 13,539
+Get By put and get took ns: 13,128
+Cycle #63
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 849,435,611
+Get By put and get took ns: 924,066,934
+HashTable
+Get By compute if absent took ns: 951,073,271
+Get By put and get took ns: 1,024,204,698
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 34,462
+Get By put and get took ns: 20,923
+HashTable
+Get By compute if absent took ns: 14,359
+Get By put and get took ns: 12,308
+Cycle #64
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 904,703,668
+Get By put and get took ns: 921,317,398
+HashTable
+Get By compute if absent took ns: 982,169,040
+Get By put and get took ns: 1,021,177,829
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 164,513
+Get By put and get took ns: 25,436
+HashTable
+Get By compute if absent took ns: 285,539
+Get By put and get took ns: 120,615
+Cycle #65
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 963,598,799
+Get By put and get took ns: 917,578,734
+HashTable
+Get By compute if absent took ns: 1,116,825,750
+Get By put and get took ns: 814,839,537
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 86,154
+Get By put and get took ns: 49,641
+HashTable
+Get By compute if absent took ns: 43,487
+Get By put and get took ns: 35,282
+Cycle #66
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 849,774,072
+Get By put and get took ns: 766,605,319
+HashTable
+Get By compute if absent took ns: 761,290,042
+Get By put and get took ns: 914,649,506
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 41,847
+Get By put and get took ns: 22,154
+HashTable
+Get By compute if absent took ns: 14,769
+Get By put and get took ns: 13,949
+Cycle #67
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 832,192,958
+Get By put and get took ns: 875,112,717
+HashTable
+Get By compute if absent took ns: 879,010,971
+Get By put and get took ns: 897,124,187
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 49,641
+Get By put and get took ns: 11,897
+HashTable
+Get By compute if absent took ns: 8,616
+Get By put and get took ns: 8,205
+Cycle #68
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 912,181,816
+Get By put and get took ns: 857,477,040
+HashTable
+Get By compute if absent took ns: 935,211,130
+Get By put and get took ns: 800,189,702
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 25,436
+Get By put and get took ns: 10,666
+HashTable
+Get By compute if absent took ns: 8,615
+Get By put and get took ns: 8,205
+Cycle #69
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 835,992,339
+Get By put and get took ns: 849,448,739
+HashTable
+Get By compute if absent took ns: 828,967,525
+Get By put and get took ns: 1,058,805,695
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 24,616
+Get By put and get took ns: 11,077
+HashTable
+Get By compute if absent took ns: 8,615
+Get By put and get took ns: 8,205
+Cycle #70
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 947,648,864
+Get By put and get took ns: 793,588,682
+HashTable
+Get By compute if absent took ns: 843,598,897
+Get By put and get took ns: 773,598,135
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 40,206
+Get By put and get took ns: 17,641
+HashTable
+Get By compute if absent took ns: 12,308
+Get By put and get took ns: 11,487
+Cycle #71
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 914,473,917
+Get By put and get took ns: 855,719,914
+HashTable
+Get By compute if absent took ns: 882,369,737
+Get By put and get took ns: 909,831,049
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 31,179
+Get By put and get took ns: 15,589
+HashTable
+Get By compute if absent took ns: 9,846
+Get By put and get took ns: 8,615
+Cycle #72
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,022,919,366
+Get By put and get took ns: 836,927,314
+HashTable
+Get By compute if absent took ns: 907,927,050
+Get By put and get took ns: 908,349,203
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 28,308
+Get By put and get took ns: 15,180
+HashTable
+Get By compute if absent took ns: 11,077
+Get By put and get took ns: 10,666
+Cycle #73
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 894,606,035
+Get By put and get took ns: 917,305,914
+HashTable
+Get By compute if absent took ns: 896,866,957
+Get By put and get took ns: 926,670,420
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 47,179
+Get By put and get took ns: 15,590
+HashTable
+Get By compute if absent took ns: 10,667
+Get By put and get took ns: 10,257
+Cycle #74
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,031,248,385
+Get By put and get took ns: 1,057,496,979
+HashTable
+Get By compute if absent took ns: 908,566,229
+Get By put and get took ns: 887,669,015
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 34,461
+Get By put and get took ns: 15,590
+HashTable
+Get By compute if absent took ns: 10,667
+Get By put and get took ns: 10,256
+Cycle #75
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 920,687,655
+Get By put and get took ns: 852,628,634
+HashTable
+Get By compute if absent took ns: 851,189,866
+Get By put and get took ns: 946,400,865
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 29,538
+Get By put and get took ns: 13,539
+HashTable
+Get By compute if absent took ns: 10,257
+Get By put and get took ns: 9,436
+Cycle #76
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 910,874,740
+Get By put and get took ns: 919,102,835
+HashTable
+Get By compute if absent took ns: 901,312,902
+Get By put and get took ns: 953,364,141
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 24,615
+Get By put and get took ns: 11,077
+HashTable
+Get By compute if absent took ns: 8,615
+Get By put and get took ns: 7,384
+Cycle #77
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,040,616,993
+Get By put and get took ns: 1,026,794,645
+HashTable
+Get By compute if absent took ns: 926,634,727
+Get By put and get took ns: 913,299,353
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 33,231
+Get By put and get took ns: 23,795
+HashTable
+Get By compute if absent took ns: 11,077
+Get By put and get took ns: 10,256
+Cycle #78
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 991,289,854
+Get By put and get took ns: 1,280,282,847
+HashTable
+Get By compute if absent took ns: 1,761,205,939
+Get By put and get took ns: 1,336,213,468
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,487
+Get By put and get took ns: 11,897
+HashTable
+Get By compute if absent took ns: 8,615
+Get By put and get took ns: 7,795
+Cycle #79
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,248,632,002
+Get By put and get took ns: 1,458,867,726
+HashTable
+Get By compute if absent took ns: 1,400,465,313
+Get By put and get took ns: 1,290,725,095
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 33,641
+Get By put and get took ns: 14,770
+HashTable
+Get By compute if absent took ns: 11,077
+Get By put and get took ns: 10,667
+Cycle #80
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,266,373,525
+Get By put and get took ns: 1,207,034,087
+HashTable
+Get By compute if absent took ns: 1,544,832,374
+Get By put and get took ns: 1,337,852,440
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 34,051
+Get By put and get took ns: 11,077
+HashTable
+Get By compute if absent took ns: 8,615
+Get By put and get took ns: 7,795
+Cycle #81
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,010,623,581
+Get By put and get took ns: 953,781,782
+HashTable
+Get By compute if absent took ns: 1,301,121,394
+Get By put and get took ns: 1,116,406,469
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 77,949
+Get By put and get took ns: 36,513
+HashTable
+Get By compute if absent took ns: 36,103
+Get By put and get took ns: 47,179
+Cycle #82
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,114,975,086
+Get By put and get took ns: 1,060,539,847
+HashTable
+Get By compute if absent took ns: 894,049,728
+Get By put and get took ns: 1,209,573,982
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 32,820
+Get By put and get took ns: 14,359
+HashTable
+Get By compute if absent took ns: 10,256
+Get By put and get took ns: 9,436
+Cycle #83
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 888,849,322
+Get By put and get took ns: 891,243,577
+HashTable
+Get By compute if absent took ns: 1,058,573,901
+Get By put and get took ns: 1,486,750,370
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 56,205
+Get By put and get took ns: 26,257
+HashTable
+Get By compute if absent took ns: 17,641
+Get By put and get took ns: 13,949
+Cycle #84
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,224,241,868
+Get By put and get took ns: 1,097,053,049
+HashTable
+Get By compute if absent took ns: 1,033,935,972
+Get By put and get took ns: 1,145,584,291
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 33,230
+Get By put and get took ns: 15,179
+HashTable
+Get By compute if absent took ns: 10,667
+Get By put and get took ns: 11,077
+Cycle #85
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,164,105,301
+Get By put and get took ns: 1,265,220,295
+HashTable
+Get By compute if absent took ns: 1,252,761,638
+Get By put and get took ns: 1,181,940,774
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 31,590
+Get By put and get took ns: 14,359
+HashTable
+Get By compute if absent took ns: 9,847
+Get By put and get took ns: 9,025
+Cycle #86
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,397,100,803
+Get By put and get took ns: 1,708,897,469
+HashTable
+Get By compute if absent took ns: 1,714,553,670
+Get By put and get took ns: 1,752,158,152
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 36,513
+Get By put and get took ns: 14,359
+HashTable
+Get By compute if absent took ns: 10,256
+Get By put and get took ns: 10,257
+Cycle #87
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,893,610,754
+Get By put and get took ns: 1,673,639,652
+HashTable
+Get By compute if absent took ns: 1,626,744,511
+Get By put and get took ns: 1,602,989,865
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 53,334
+Get By put and get took ns: 38,154
+HashTable
+Get By compute if absent took ns: 15,589
+Get By put and get took ns: 11,487
+Cycle #88
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 987,805,959
+Get By put and get took ns: 924,025,909
+HashTable
+Get By compute if absent took ns: 848,944,534
+Get By put and get took ns: 827,642,398
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 26,667
+Get By put and get took ns: 10,667
+HashTable
+Get By compute if absent took ns: 8,206
+Get By put and get took ns: 7,385
+Cycle #89
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 832,206,906
+Get By put and get took ns: 758,833,018
+HashTable
+Get By compute if absent took ns: 815,886,510
+Get By put and get took ns: 756,062,149
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,897
+Get By put and get took ns: 10,256
+HashTable
+Get By compute if absent took ns: 8,205
+Get By put and get took ns: 6,975
+Cycle #90
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 787,436,482
+Get By put and get took ns: 759,352,403
+HashTable
+Get By compute if absent took ns: 921,713,706
+Get By put and get took ns: 792,825,196
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 28,308
+Get By put and get took ns: 11,077
+HashTable
+Get By compute if absent took ns: 7,795
+Get By put and get took ns: 6,975
+Cycle #91
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 733,710,168
+Get By put and get took ns: 1,045,105,604
+HashTable
+Get By compute if absent took ns: 965,638,592
+Get By put and get took ns: 874,650,770
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 33,641
+Get By put and get took ns: 14,770
+HashTable
+Get By compute if absent took ns: 10,666
+Get By put and get took ns: 10,256
+Cycle #92
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 1,305,899,647
+Get By put and get took ns: 1,003,891,689
+HashTable
+Get By compute if absent took ns: 1,070,034,404
+Get By put and get took ns: 858,967,500
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,897
+Get By put and get took ns: 11,487
+HashTable
+Get By compute if absent took ns: 8,205
+Get By put and get took ns: 8,205
+Cycle #93
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 847,822,074
+Get By put and get took ns: 880,499,790
+HashTable
+Get By compute if absent took ns: 816,950,715
+Get By put and get took ns: 829,680,550
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 30,359
+Get By put and get took ns: 12,718
+HashTable
+Get By compute if absent took ns: 9,026
+Get By put and get took ns: 9,026
+Cycle #94
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 744,674,671
+Get By put and get took ns: 1,207,997,368
+HashTable
+Get By compute if absent took ns: 1,066,309,279
+Get By put and get took ns: 1,053,381,290
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 30,769
+Get By put and get took ns: 13,538
+HashTable
+Get By compute if absent took ns: 9,435
+Get By put and get took ns: 8,615
+Cycle #95
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 826,459,219
+Get By put and get took ns: 963,566,799
+HashTable
+Get By compute if absent took ns: 948,668,350
+Get By put and get took ns: 938,848,050
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 33,231
+Get By put and get took ns: 13,128
+HashTable
+Get By compute if absent took ns: 10,257
+Get By put and get took ns: 13,538
+Cycle #96
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 993,243,493
+Get By put and get took ns: 991,282,469
+HashTable
+Get By compute if absent took ns: 804,243,443
+Get By put and get took ns: 987,833,446
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 27,897
+Get By put and get took ns: 22,564
+HashTable
+Get By compute if absent took ns: 11,077
+Get By put and get took ns: 306,051
+Cycle #97
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 906,180,180
+Get By put and get took ns: 970,536,229
+HashTable
+Get By compute if absent took ns: 797,367,550
+Get By put and get took ns: 878,244,202
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 110,769
+Get By put and get took ns: 29,128
+HashTable
+Get By compute if absent took ns: 25,026
+Get By put and get took ns: 65,641
+Cycle #98
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 763,214,964
+Get By put and get took ns: 905,582,027
+HashTable
+Get By compute if absent took ns: 917,076,581
+Get By put and get took ns: 930,769,698
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 56,205
+Get By put and get took ns: 36,923
+HashTable
+Get By compute if absent took ns: 12,718
+Get By put and get took ns: 12,308
+Cycle #99
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 973,423,612
+Get By put and get took ns: 926,127,240
+HashTable
+Get By compute if absent took ns: 897,358,853
+Get By put and get took ns: 1,047,915,447
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 54,154
+Get By put and get took ns: 10,257
+HashTable
+Get By compute if absent took ns: 6,153
+Get By put and get took ns: 5,333
+Cycle #100
+*** Non-Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 942,611,329
+Get By put and get took ns: 918,435,349
+HashTable
+Get By compute if absent took ns: 1,218,793,666
+Get By put and get took ns: 1,169,929,296
+*** Concurrent ***
+ConcurrentHashMap
+Get By compute if absent took ns: 34,872
+Get By put and get took ns: 11,488
+HashTable
+Get By compute if absent took ns: 7,384
+Get By put and get took ns: 5,743
